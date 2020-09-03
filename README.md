@@ -2,7 +2,7 @@
 
 源码地址
 
-https://github.com/LuYaFeng/appkeepLive
+https://github.com/peakerlu/appkeepLive
 
 当系统内存不足时,系统根据自己的进程回收机制来判断是否kill 掉进程,以腾出内存来供给需要的app, 这套杀进程回收内存的机制就叫 low memory kill
 
@@ -662,3 +662,5 @@ object Utils {
     }
 }
 ```
+
+
